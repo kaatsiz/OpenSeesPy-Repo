@@ -9,8 +9,8 @@ from openseespy.opensees import *
 import numpy as np
 import math
 
-import openseespy.postprocessing.ops_vis as opsv
-import matplotlib.pyplot as plt
+#import openseespy.postprocessing.ops_vis as opsv
+#import matplotlib.pyplot as plt
 
 # wipe model
 wipe()
