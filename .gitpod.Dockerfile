@@ -7,3 +7,4 @@ FROM gitpod/workspace-full
 # More information: https://www.gitpod.io/docs/config-docker/
 
 RUN python3 -m pip install openseespy
+RUN python3 -m pip install numpy
